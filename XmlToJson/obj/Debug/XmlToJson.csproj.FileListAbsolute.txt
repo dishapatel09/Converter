@@ -1,0 +1,10 @@
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\bin\Debug\XmlToJson.exe.config
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\bin\Debug\XmlToJson.exe
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\bin\Debug\XmlToJson.pdb
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\obj\Debug\XmlToJson.csprojAssemblyReference.cache
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\obj\Debug\XmlToJson.csproj.CoreCompileInputs.cache
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\obj\Debug\XmlToJson.csproj.CopyComplete
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\obj\Debug\XmlToJson.exe
+C:\Users\Dishu\source\repos\XmlToJson\XmlToJson\obj\Debug\XmlToJson.pdb
